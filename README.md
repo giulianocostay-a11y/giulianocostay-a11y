@@ -1,4 +1,4 @@
-##Sobre mim
+# Sobre mim
 
 Sou um desenvolvedor com foco em dados, automação e criação de sistemas administrativos, utilizando a tecnologia como ferramenta para organizar, analisar e otimizar processos.
 
@@ -6,15 +6,16 @@ Atuo no desenvolvimento de soluções com Excel avançado, VBA e bancos de dados
 
 🔗 Conecte-se comigo
 
-LinkedIn
+[![LinkedIn](https://img.icons8.com/color/96/linkedin.png)](https://www.linkedin.com/in/Giuliano-Costa/)
 
-##🛠️ Linguagens e Tecnologias
+
+## 🛠️ Linguagens e Tecnologias
 
 📊 Excel Avançado ⚙️ VBA (Visual Basic for Applications) 🗄️ Banco de Dados 🗃️ Microsoft Access
 
 🐍 Python 📈 Power BI 🔧 Git / GitHub
 
-##Áreas de Interesse
+## Áreas de Interesse
 
 Desenvolvimento de sistemas CRUD
 
@@ -23,6 +24,3 @@ Análise e visualização de dados
 Soluções administrativas e financeiras
 
 
-
-- ⚡ Fun fact: ...
--->
